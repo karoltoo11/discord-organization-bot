@@ -1,6 +1,13 @@
-﻿# Discord Organization Bot
+# Discord Organization Bot
 
-This is my Discord organization bot. I built it to handle server organization, matchmaking (LFG), personal reminders, to-do task boards, contests, events, and moderation traps. It was a really cool experience for me; I had to figure out a lot of tricky things, especially persistent buttons, background schedulers, and SQLite database handling.
+I am creating a Discord bot designed to help build a community. Specifically, it enables:
+- Creating prize giveaways/raffles.
+- Organizing events.
+- Finding people to play games with.
+- "Trap" channel
+- To-do list
+- Personal reminders
+
 
 <h2>Discord server with bot:</h2>
 
@@ -53,4 +60,6 @@ This is my Discord organization bot. I built it to handle server organization, m
 
 ## Translation
 
-Unfortunately, English is not my native language, so I used Google Translate for all translations without altering them in any way. I did this to avoid unnecessary typos and the like.
+Unfortunately, English is not my native language, so I used Google Translate for all translations. I hope that this isn't a problem!
+
+### Thank you for reading and using!
